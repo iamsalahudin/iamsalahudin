@@ -1,5 +1,5 @@
 # 💫 Salahudin.dev
-👋 Hi, I’m @iamsalahudin<br>👀 I’m interested in MERN Stack Development<br>🌱 I’m currently learning Software Engineering and Web Development<br>💞️ I’m looking to collaborate on Web Application Projects<br>📫 You can mail me iamsalahudin123@gmail.com<br>😄 Pronouns: He 😄
+👋 Hi, I’m @iamsalahudin<br>👀 I’m interested in Next.js & MERN Stack Development<br>🌱 I’m currently learning Software Engineering and Web Development<br>💞️ I’m looking to collaborate on Web Application Projects<br>📫 You can mail me iamsalahudin123@gmail.com<br>😄 Pronouns: He 😄
 
 
 ## 🌐 Socials:
