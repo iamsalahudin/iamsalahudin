@@ -34,31 +34,32 @@ Currently building products that modernize educational institutions through AI-p
 
 ---
 
-## 🏗️ Featured Products
+## 🏗️ Flagship Products & Platforms
 
-| Product                                                                  | Description                                                                                                                            | Tech Stack                         |
-| ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
-| **[EduNexus](https://github.com/iamsalahudin/EduNexus)**                 | AI-First School, College & University Management System designed to streamline administration, academics, and institutional workflows. | JavaScript, MongoDB, AI Automation |
-| **[FinTrack](https://github.com/iamsalahudin/fintrack)**                 | Personal finance management platform for tracking expenses, budgets, and financial activities.                                         | TypeScript                         |
-| **[GBlog](https://github.com/iamsalahudin/GBlog)**                       | Full-featured blogging platform with role-based access control, likes, comments, and content management.                               | JavaScript, MongoDB                |
-| **[ChatBot Pro AI](https://github.com/iamsalahudin/chatbot-pro-ai)**     | AI-powered conversational assistant demonstrating LLM integration and intelligent interactions.                                        | JavaScript, AI APIs                |
-| **[LetzEat](https://github.com/iamsalahudin/letzeat)**                   | Recipe discovery mobile application focused on food exploration and user engagement.                                                   | Flutter, Dart                      |
-| **[Ultimate Todo App](https://github.com/iamsalahudin/UltimateTodoApp)** | Advanced task management platform with CRUD operations, search, filtering, and drag-and-drop support.                                  | JavaScript                         |
+| Product                                                                      | Description                                                                                                                            | Tech Stack                         |
+| ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| **[EduNexus](https://github.com/iamsalahudin/EduNexus)**                     | AI-First School, College & University Management System designed to streamline administration, academics, and institutional workflows. | JavaScript, MongoDB, AI Automation |
+| **[Faran Kids Campus](https://farankidscampus.vercel.app/)** 🔒              | Modern educational institution website featuring admissions, academics, campus information, and parent engagement experiences.         | Next.js, TypeScript                |
+| **[ChatBot Pro AI](https://github.com/iamsalahudin/chatbot-pro-ai)**         | AI-powered conversational assistant demonstrating LLM integration and intelligent interactions.                                        | JavaScript, AI APIs                |
+| **[LetzEat](https://github.com/iamsalahudin/letzeat)**                       | Recipe discovery mobile application focused on food exploration and user engagement.                                                   | Flutter, Dart                      |
+| **[The Clay Collection](https://github.com/iamsalahudin/TheClayCollection)** | Premium ceramic product showcase platform designed to present handcrafted collections with a modern user experience.                   | JavaScript                         |
+| **[Candy Shop](https://github.com/iamsalahudin/candy-shop)**                 | Modern business website for a confectionery brand featuring product presentation and responsive design.                                | TypeScript                         |
+
+> 🔒 Private repository with a public production deployment.
 
 ---
 
 ## 🌟 Additional Projects
 
-| Project                                                                      | Description                                                      |
-| ---------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| **[The Clay Collection](https://github.com/iamsalahudin/TheClayCollection)** | Ceramic product showcase and business website.                   |
-| **[Candy Shop](https://github.com/iamsalahudin/candy-shop)**                 | Modern business website for a confectionery brand.               |
-| **[Secret Notes](https://github.com/iamsalahudin/secret_notes)**             | Secure note-taking application with MongoDB backend integration. |
-| **[Breezy Post Haven](https://github.com/iamsalahudin/breezy-post-haven)**   | Content publishing and post-sharing platform.                    |
-| **[Expense Tracker](https://github.com/iamsalahudin/the-expense-tracker)**   | Daily expense management application.                            |
-| **[Weather App](https://github.com/iamsalahudin/the-weather-app)**           | Real-time weather information utility.                           |
-| **[Jokes](https://github.com/iamsalahudin/jokes)**                           | Random joke generator web application.                           |
-| **[Tic-Toc-Tae](https://github.com/iamsalahudin/Tic-Toc-Tae)**               | Browser-based Tic-Tac-Toe game.                                  |
+| Project                                                                    | Description                                                                                           |
+| -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| **[Secret Notes](https://github.com/iamsalahudin/secret_notes)**           | Secure note-taking application with MongoDB backend integration.                                      |
+| **[Breezy Post Haven](https://github.com/iamsalahudin/breezy-post-haven)** | Content publishing and post-sharing platform.                                                         |
+| **[Expense Tracker](https://github.com/iamsalahudin/the-expense-tracker)** | Daily expense management application.                                                                 |
+| **[Weather App](https://github.com/iamsalahudin/the-weather-app)**         | Real-time weather information utility.                                                                |
+| **[Ultimate Todo App](https://github.com/iamsalahudin/UltimateTodoApp)**   | Advanced task management platform with CRUD operations, search, filtering, and drag-and-drop support. |
+| **[Jokes](https://github.com/iamsalahudin/jokes)**                         | Random joke generator web application.                                                                |
+| **[Tic-Toc-Tae](https://github.com/iamsalahudin/Tic-Toc-Tae)**             | Browser-based Tic-Tac-Toe game.                                                                       |
 
 ---
 
@@ -72,7 +73,20 @@ Currently building products that modernize educational institutions through AI-p
 
 ---
 
-### 📈 Vision
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iamsalahudin&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsalahudin&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsalahudin&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Vision
 
 Building the next generation of AI-enabled platforms that empower organizations, automate repetitive work, and create measurable impact through technology.
 
@@ -80,11 +94,8 @@ Building the next generation of AI-enabled platforms that empower organizations,
 
 ### 📫 Let's Connect
 
-**LinkedIn:** https://linkedin.com/in/iamsalahudin123
-
-**Email:** [iamsalahudin123@gmail.com](mailto:iamsalahudin123@gmail.com)
-
-**GitHub:** https://github.com/iamsalahudin
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/iamsalahudin123)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:iamsalahudin123@gmail.com)
 
 ---
 
