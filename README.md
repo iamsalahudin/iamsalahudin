@@ -1,104 +1,158 @@
-<div align="center">
+::: {align="center"}
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Salahudin&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AI-First%20Systems%20Architect%20%E2%80%A2%20MERN%20Stack%20Web%20Developer&descAlignY=62&descSize=16" />`{=html}
 
-# 🌌 Salahudin
+`<br/>`{=html}
 
-### **AI-First Systems Architect | Full-Stack MERN Developer**
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&lines=Architecting+AI-First+Education+Platforms;Building+Intelligent+Automation+Systems;MERN+Stack+%26+Next.js+Developer;LLM+Integrations+%26+AI+Agents;Designing+Scalable+SaaS+Products" />`{=html}
+:::
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Architecting+the+Future+of+Education;Expert+in+LLM-Driven+Automation;MERN+Stack+%2B+Next.js+Specialist;Building+Scalable+AI+Systems" alt="Typing SVG" />
+------------------------------------------------------------------------
 
----
+# 🧑‍💻 About Me
 
-### 💫 About Me
+I'm an **AI-First Systems Architect** and **MERN Stack Web Developer**
+focused on building scalable products, intelligent automation, and
+modern web applications.
 
-*"I design intelligent systems that bridge the gap between AI and human potential."*
+-   🔭 Currently working on **Pinterest Integrated Account Management
+    Automation**
+-   🧠 Passionate about **LLMs, AI Agents, Workflow Automation & System
+    Design**
+-   💼 Freelance Full-Stack Developer & AI Consultant
+-   📍 Based in Pakistan
+-   ⚡ Fun fact: I enjoy automating repetitive work so I can spend more
+    time building new ideas.
 
-I specialize in creating **AI-first educational platforms**, intelligent workflow automation, and scalable web applications. My work focuses on combining **LLMs, automation systems, and modern web technologies** to solve real-world business and institutional challenges.
+------------------------------------------------------------------------
 
-Currently building products that modernize educational institutions through AI-powered operations, data-driven decision making, and seamless user experiences.
+# 🏆 Domain Expertise
 
----
+  -----------------------------------------------------------------------
+              Domain                 Core Skills
+  ----------- ---------------------- ------------------------------------
+      🤖      AI Engineering         LLM APIs · AI Agents · Prompt
+                                     Engineering
 
-### 🚀 Technical Arsenal
+      🎓      Education Technology   School ERP · Student Systems ·
+                                     Digital Transformation
 
-#### Frontend & Logic
+      ⚙️      Workflow Automation    n8n · AI Workflows · Process
+                                     Automation
 
-`Next.js` • `React.js` • `TypeScript` • `JavaScript` • `Tailwind CSS` • `Framer Motion`
+      🏗️      SaaS Architecture      REST APIs · Authentication · RBAC
 
-#### Backend & Intelligence
+      🌐      Full-Stack Development MERN · Next.js · TypeScript
 
-`Node.js` • `Express.js` • `MongoDB` • `REST APIs` • `n8n Automation` • `OpenAI Integration`
+      ☁️      Cloud & Deployment     Vercel · GitHub · Modern Deployments
+  -----------------------------------------------------------------------
 
-#### Creative & Tools
+------------------------------------------------------------------------
 
-`Git/GitHub` • `Figma` • `Vercel` • `Technical Branding` • `System Design`
+# 🛠️ Tech Stack
 
----
+### Languages
 
-## 🏗️ Flagship Products & Platforms
-
-| Product                                                                      | Description                                                                                                                            | Tech Stack                         |
-| ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
-| **[EduNexus](https://github.com/iamsalahudin/EduNexus)**                     | AI-First School, College & University Management System designed to streamline administration, academics, and institutional workflows. | JavaScript, MongoDB, AI Automation |
-| **[Faran Kids Campus](https://farankidscampus.vercel.app/)** 🔒              | Modern educational institution website featuring admissions, academics, campus information, and parent engagement experiences.         | Next.js, TypeScript                |
-| **[ChatBot Pro AI](https://github.com/iamsalahudin/chatbot-pro-ai)**         | AI-powered conversational assistant demonstrating LLM integration and intelligent interactions.                                        | JavaScript, AI APIs                |
-| **[LetzEat](https://github.com/iamsalahudin/letzeat)**                       | Recipe discovery mobile application focused on food exploration and user engagement.                                                   | Flutter, Dart                      |
-| **[The Clay Collection](https://github.com/iamsalahudin/TheClayCollection)** | Premium ceramic product showcase platform designed to present handcrafted collections with a modern user experience.                   | JavaScript                         |
-| **[Candy Shop](https://github.com/iamsalahudin/candy-shop)**                 | Modern business website for a confectionery brand featuring product presentation and responsive design.                                | TypeScript                         |
-
-> 🔒 Private repository with a public production deployment.
-
----
-
-## 🌟 Additional Projects
-
-| Project                                                                    | Description                                                                                           |
-| -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| **[Secret Notes](https://github.com/iamsalahudin/secret_notes)**           | Secure note-taking application with MongoDB backend integration.                                      |
-| **[Breezy Post Haven](https://github.com/iamsalahudin/breezy-post-haven)** | Content publishing and post-sharing platform.                                                         |
-| **[Expense Tracker](https://github.com/iamsalahudin/the-expense-tracker)** | Daily expense management application.                                                                 |
-| **[Weather App](https://github.com/iamsalahudin/the-weather-app)**         | Real-time weather information utility.                                                                |
-| **[Ultimate Todo App](https://github.com/iamsalahudin/UltimateTodoApp)**   | Advanced task management platform with CRUD operations, search, filtering, and drag-and-drop support. |
-| **[Jokes](https://github.com/iamsalahudin/jokes)**                         | Random joke generator web application.                                                                |
-| **[Tic-Toc-Tae](https://github.com/iamsalahudin/Tic-Toc-Tae)**             | Browser-based Tic-Tac-Toe game.                                                                       |
-
----
-
-## 🎯 Current Focus
-
-🔹 AI-Powered Educational Systems
-🔹 LLM Workflow Automation
-🔹 Scalable SaaS Architectures
-🔹 Next.js & MERN Ecosystem
-🔹 Intelligent Business Operations
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iamsalahudin&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsalahudin&theme=tokyonight&hide_border=true" />
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=js,ts,html,css,dart&theme=dark"/>`{=html}
+```{=html}
 </p>
+```
+### Frontend
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsalahudin&layout=compact&theme=tokyonight&hide_border=true" />
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui&theme=dark"/>`{=html}
+```{=html}
 </p>
+```
+### Backend
 
----
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark"/>`{=html}
+```{=html}
+</p>
+```
+### AI & Automation
 
-## 📈 Vision
+`OpenAI` • `GPT-4o` • `n8n` • `REST APIs`
 
-Building the next generation of AI-enabled platforms that empower organizations, automate repetitive work, and create measurable impact through technology.
+### DevOps & Tools
 
----
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,docker,linux,postgres,prisma,supabase,aws,cloudflare,nginx,redis&theme=dark"/>`{=html}
+```{=html}
+</p>
+```
 
-### 📫 Let's Connect
+------------------------------------------------------------------------
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/iamsalahudin123)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:iamsalahudin123@gmail.com)
+# 🚀 Flagship Products & Platforms
 
----
+  ----------------------------------------------------------------------------------------------
+  Product                                    Link
+  ------------------------------------------ ---------------------------------------------------
+  EduNexus                                   https://github.com/iamsalahudin/EduNexus
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%"/>
+  Faran Kids Campus                          https://farankidscampus.vercel.app/
 
-</div>
+  ChatBot Pro AI                             https://github.com/iamsalahudin/chatbot-pro-ai
+
+  LetzEat                                    https://github.com/iamsalahudin/letzeat
+
+  The Clay Collection                        https://github.com/iamsalahudin/TheClayCollection
+
+  Candy Shop                                 https://github.com/iamsalahudin/candy-shop
+  ----------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+# 🎯 Current Focus
+
+-   AI-Powered Educational Systems
+-   LLM Integrations
+-   Workflow Automation
+-   MERN & Next.js
+-   Scalable SaaS Products
+
+------------------------------------------------------------------------
+
+# 📊 GitHub Analytics
+
+```{=html}
+<p align="center">
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamsalahudin&show_icons=true&theme=github_dark&hide_border=true"/>`{=html}
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsalahudin&layout=compact&theme=github_dark&hide_border=true"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsalahudin&theme=github-dark-blue&hide_border=true"/>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+# 📫 Let's Connect
+
+-   📧 iamsalahudin123@gmail.com
+-   💼 https://www.linkedin.com/in/iamsalahudin123/
+-   💬 Discord: **iamsalahudin123**
+
+------------------------------------------------------------------------
+
+::: {align="center"}
+*Building AI-powered systems that create measurable impact.*
+
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>`{=html}
+:::
